@@ -1,0 +1,11 @@
+query AllPlanets {
+  allPlanets {
+    planets {
+      name
+      diameter
+      gravity
+      population
+      terrains
+    }
+  }
+}

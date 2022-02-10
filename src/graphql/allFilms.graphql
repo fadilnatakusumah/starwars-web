@@ -1,0 +1,17 @@
+query AllFilms {
+  allFilms {
+    films {
+      id
+      title
+      episodeID
+      director
+      releaseDate
+      openingCrawl
+      characterConnection {
+        characters {
+          name
+        }
+      }
+    }
+  }
+}
