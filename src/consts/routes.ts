@@ -1,6 +1,5 @@
 import { Films } from "../pages/Films";
 import { DetailFilms } from "../pages/Films/Detail";
-import Home from "../pages/Home";
 import { People } from "../pages/People";
 import { Planets } from "../pages/Planets";
 import { Starships } from "../pages/Starships";
